@@ -19,4 +19,4 @@ _Learn how to do web scraping._
 # LEVEL 3
 
 ## Exercise 3
- - Choose a web page you want and do web scraping using the Scrapy library
+ - Choose a web page you want and do web scraping using the Scrapy library.
